@@ -1,0 +1,33 @@
+body{
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  width: 1000px;
+}
+body h2, h3{
+  font-family: Helvetica;
+}
+header{
+  background: green;
+  color: white;
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 10px;
+}
+main{
+  background: lightGreen;
+  margin: 0;
+  padding: 10px;
+}
+p{
+  font-family: Georgia, serif;
+  padding: 10px;
+}
+footer{
+  padding: 10px;
+  background: green;
+}
+footer form{
+  padding: 20px;
+  font-family: Helvetica, sans-serif;
+}
